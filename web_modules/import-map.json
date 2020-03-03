@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "vue": "./vue.js?rev=e22219657f",
+    "vue-router": "./vue-router.js?rev=2484080e34"
+  }
+}
