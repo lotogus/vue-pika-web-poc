@@ -14,7 +14,7 @@ ul {
   padding: 0;
   list-style: none;
   text-align: left;
-  border: 4px dashed #AAA;
+  border: 1px dashed #AAA;
 }
 li {
   padding: 5px 10px;
